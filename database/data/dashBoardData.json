@@ -1,0 +1,18 @@
+[
+  {
+    "email": "tasu.legend@gmail.com",
+    "name": "Farhan Isteak Taseen",
+    "password": "$2b$10$PTDffHl.YjebEs/uAWa1SeCIiJ2z21rYD.iaAEoiwXUh1REB/rvS2",
+    "createdAt": "2022-10-05T14:33:43Z",
+    "updatedAt": "2022-10-05T14:36:08Z",
+    "facebookUserID": "100023553541678"
+  },
+  {
+    "email": "thebotolbaba@gmail.com",
+    "name": "Mehedi Hasan",
+    "password": "$2b$10$5NYaR7ceBmdk/dDXmisgUussV7HBg/ZTPq7Tux/VPTmW6f98nJ7pe",
+    "createdAt": "2022-10-05T15:12:45Z",
+    "updatedAt": "2022-10-05T15:15:11Z",
+    "facebookUserID": "100076311135375"
+  }
+]

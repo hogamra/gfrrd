@@ -1,0 +1,17 @@
+node_modules
+obfcode.js
+minify.js
+*.zip
+*.dev.*
+*.rar
+test.js
+
+
+!database/data/.gitkeep
+
+scripts/cmds/tmp/*
+!scripts/cmds/tmp/.gitkeep
+
+scripts/events/tmp/*
+!scripts/events/tmp/.gitkeep
+node_modules/
